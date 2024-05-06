@@ -1,6 +1,6 @@
 # Coming-Soon-Master
 
-Hello everybody! 👋 </br>
+Hello everybody! 👋 </br> 
 ✨ Welcome to the Coming-Soon-Master! 
  The Coming-Soon-Master is a web-based application built using HTML, CSS, and JavaScript. The purpose of this form is to allow users to sign up for our service by providing their basic information.
 
